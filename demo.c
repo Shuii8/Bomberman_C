@@ -1,3 +1,7 @@
+ //All rights reserved
+//Copyright belongs to Saul Ramirez
+//You can use this code freely as long as credit is given
+
 //Using libs SDL, glibc
 #include <SDL.h>	//SDL version 2.0
 #include <stdlib.h>
